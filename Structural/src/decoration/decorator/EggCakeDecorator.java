@@ -3,6 +3,7 @@ package decoration.decorator;
 import decoration.Cake;
 
 /**
+ * 体装饰角色（Concrete Decorator）
  * 鸡蛋手抓饼
  */
 public class EggCakeDecorator extends CakeDecorator {
