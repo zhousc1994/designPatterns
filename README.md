@@ -16,4 +16,6 @@
 
 [3.组合模式](./Structural/src/combination/组合模式.md)
 
-[2.装饰者模式](./Structural/src/decoration/装饰者模式.md)
+[4.装饰者模式](./Structural/src/decoration/装饰者模式.md)
+
+[5.外观模式](./Structural/src/exterior/外观模式.md)
