@@ -2,11 +2,11 @@
 
 ## 一.创建型模式
 
-[1.工厂模式](creation/工厂模式.md)
+[1.工厂模式](./creation/工厂模式.md)
 
-[2.创建者模式](creation/创建者模式.md)
+[2.创建者模式](./creation/创建者模式.md)
 
-[3.原型模式](creation/原型模式.md)
+[3.原型模式](./creation/原型模式.md)
 
 ## 二.结构型模式
 
@@ -19,3 +19,5 @@
 [4.装饰者模式](./Structural/src/decoration/装饰者模式.md)
 
 [5.外观模式](./Structural/src/exterior/外观模式.md)
+
+[6.享元模式](./Structural/src/flyweight/享元模式.md)
