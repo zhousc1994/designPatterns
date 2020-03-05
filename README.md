@@ -21,3 +21,7 @@
 [5.外观模式](./Structural/src/exterior/外观模式.md)
 
 [6.享元模式](./Structural/src/flyweight/享元模式.md)
+
+### 总结
+    适配器： 接口兼容问题
+    桥接： 桥接属性，构建不同维度的对象
